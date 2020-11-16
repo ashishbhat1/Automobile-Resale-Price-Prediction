@@ -3,7 +3,7 @@ Predicted resale value of automobiles using various regression techniques like l
 
 Operations Performed:
 
-Removed Null values.
+Removed Null values.</br>
 Performed the one hot encoding for location, transmission, fuel type, and brand.
 Added ordinal ranks for owner type.
 Cleaned attributes like engine, power,mileage.
